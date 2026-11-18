@@ -1,4 +1,7 @@
-# IT Infrastructure Services — Training & Lab Learning
+# IT Infrastructure Services
+### Training & Lab Learning
+
+![Illustrative network topology](../assets/network-topology.svg)
 
 ## Overview
 This page summarises foundational topics studied during IT Infrastructure Services (ITIS) training.
@@ -16,6 +19,9 @@ This page summarises foundational topics studied during IT Infrastructure Servic
 - Building and inspecting basic topologies
 
 ## Windows environments
+
+![Illustrative client-server architecture](../assets/client-server.svg)
+
 - Windows Client OS fundamentals
 - Windows Server fundamentals
 - Understanding the different purposes of client and server operating systems
@@ -25,15 +31,10 @@ This page summarises foundational topics studied during IT Infrastructure Servic
 - Secure Boot fundamentals
 - Trusted Platform Module (TPM) fundamentals
 
-## Practical learning
-Add the exact lab exercises completed, with short explanations and screenshots where permitted.
+## Practical learning checklist
+- [ ] Document the exact Packet Tracer topology practised
+- [ ] Add permitted lab screenshots
+- [ ] Record device models, cable types and addressing used in the lab
+- [ ] Add short notes explaining connectivity tests
 
-## Screenshots to add
-- [ ] Packet Tracer topology created during practice
-- [ ] Permitted Windows lab exercise
-- [ ] Short notes explaining a networking concept
-
-## Learning outcome
-Developed foundational understanding of enterprise IT infrastructure concepts through training and lab-oriented learning.
-
-> This is a training summary, not a claim of independent production infrastructure administration or customer project delivery.
+> **Transparency note:** The diagrams on this page are illustrative learning aids, not screenshots or proof of a completed lab. Add genuine lab evidence only when available and permitted.
