@@ -1,32 +1,41 @@
-# Employee Management System — Salesforce Practice Project
+# Employee Management System
+### Salesforce Administration · Practice Project
 
-## Overview
+![Illustrative employee workflow](../../assets/employee-workflow.svg)
+
+## Project overview
 A Salesforce practice project designed to organise employee-related information using Salesforce's declarative platform.
 
-## Purpose
+## Objective
 - Practise modelling employee information in Salesforce.
-- Understand how records can be organised and related.
-- Build familiarity with Salesforce Administration.
+- Understand how records and fields organise business data.
+- Build familiarity with Salesforce Administration concepts.
 
-## Project configuration
-Document the exact configuration from your Salesforce practice org:
-- Custom object(s) and fields used
-- Employee record structure
-- Relationships between objects, if configured
-- Page layouts and record views, if configured
-- Validation rules, automation, or access controls, only if implemented
-
-## Example workflow
+## Conceptual workflow
 1. Create or open an employee record.
 2. Enter and maintain the employee information captured by the project.
 3. Review the record and any related information configured in the org.
 
-## Screenshots to add
-- [ ] Employee object and fields
-- [ ] Sample employee record using fictional test data
-- [ ] Relationships or automation, if implemented
+## Configuration record
+Document the exact setup from the Salesforce practice org. Include only features actually configured and tested.
 
-## Learning outcome
-Practised Salesforce data modelling and the organisation of business records.
+| Configuration area | What to document |
+|---|---|
+| Object and fields | Actual custom object name and fields |
+| Relationships | Lookup or master-detail, if configured |
+| Record interface | Page layout / record page, if configured |
+| Automation | Flow or validation rule, only if implemented |
+| Access | Profiles, permission sets or sharing, only if configured |
 
-> Add only screenshots and configuration details that you personally built. Do not upload real employee or personal data.
+## Learning outcomes
+- Salesforce record and field concepts
+- Declarative data modelling
+- Understanding how business records are organised
+
+## Evidence checklist
+- [ ] Object Manager screenshot
+- [ ] Fields and relationships screenshot
+- [ ] Sample record using fictional data
+- [ ] Automation screenshot, only if implemented
+
+> **Transparency note:** The diagram above is an illustrative explanation, not a screenshot of a live Salesforce org. This is a practice project, not a production deployment.
